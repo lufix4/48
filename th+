@@ -2,3 +2,11 @@ wg://188.114.99.0:1074?private_key=aH69bMDzEshbcWQydycLCABp0q0Hh6sAfIVL4e7jYkg%3
 wg://188.114.98.241:8319?private_key=mL+duMquJ7JrTfkwI30lNQjRLvZZVCgqxHsCD/Ws80o%3D&local_address=172.16.0.2/32-2606:4700:110:875b:b3f9:71e6:1f35:391d/128&mtu=1280&public_key=bmXOC+F1FxEMF9dyiK2H5/1SUtzH0JuVo51h2wPfgyo%3D&reserved=185-18-8&persistent_keepalive_interval=30#TH+%20WSamantel
 wg://8.35.211.95:7281?private_key=2Pcql2R59TSr9HPMGj0sfpj8kf3zNBEIJqeQRUppcV0%3D&local_address=172.16.0.2/32-2606:4700:110:8634:ffa0:f0ce:3877:2d5c/128&mtu=1280&public_key=bmXOC+F1FxEMF9dyiK2H5/1SUtzH0JuVo51h2wPfgyo%3D&reserved=202-199-10&persistent_keepalive_interval=30#TH+%20WSamantel
 wg://8.6.112.165:928?private_key=8GF7VGy6kWI+wjRVN/VDT5w63/XHTFSihTsUWLLwXnk%3D&local_address=172.16.0.2/32-2606:4700:110:8b0a:99a6:e7f7:a3c7:4578/128&mtu=1280&public_key=bmXOC+F1FxEMF9dyiK2H5/1SUtzH0JuVo51h2wPfgyo%3D&reserved=168-204-219&persistent_keepalive_interval=30#TH+%20WSamantel
+wg://80.79.7.101:443?private_key=qG7NqyQFADfPKJn2Q402+VpurZJ9e+nS3Lmc0ct7x1o%3D&local_address=10.2.0.2/32&public_key=f+4yCs1s7oTFV0MDsFGmOdBYkxSg7K8/KyIA4cnOwzg%3D&persistent_keepalive_interval=25#NL%20229
+wg://190.2.151.14:443?private_key=eCFcCUyVGGkqX+x+GFQSeGb1T3M07tS7l4lSxR8ocEw%3D&local_address=10.2.0.2/32&public_key=zwqVDEcMVKdrKT1hSke1/WR9GYwFfBeWN3qzdGQMOR0%3D&persistent_keepalive_interval=25#NL%20248
+wg://89.33.8.50:443?private_key=yKDpj2ChKywIFTkKDpLExWSzCvYcmBplgq9CBddHv0E%3D&local_address=10.2.0.2/32&public_key=W/lgc+lCS5FHfNgfr3xuvnfoB8geoyyCZRgg2kTS8ww%3D&persistent_keepalive_interval=25#RO%2021
+wg://146.70.246.130:443?private_key=iP9Nfy6TY/my2+G9LhPazkUHhY3+5+24UQS3O7qEWnA%3D&local_address=10.2.0.2/32&public_key=WFxt02BlKZXK8tMmgZ/q8IcnM7N8hXEhDpyaPhG3zXg%3D&persistent_keepalive_interval=25#RO%2028
+throne://add/eyJsaXN0IjpbMTQsMTVdLCJuYW1lIjoiV19OTDIyOSIsInR5cGUiOiJjaGFpbiJ9
+throne://add/eyJsaXN0IjpbMTQsMTddLCJuYW1lIjoiV19OTDI0OCIsInR5cGUiOiJjaGFpbiJ9
+throne://add/eyJsaXN0IjpbMTQsMTldLCJuYW1lIjoiV19STzIxIiwidHlwZSI6ImNoYWluIn0
+throne://add/eyJsaXN0IjpbMTQsMThdLCJuYW1lIjoiV19STzI4IiwidHlwZSI6ImNoYWluIn0
