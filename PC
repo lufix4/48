@@ -1,0 +1,1 @@
+vless://64a3bf11-1902-45ca-931f-dd9cf4ef4c80@[2606:4700:91b4:d689:eee5:7888:ab8c:7e34]:8443?encryption=none&security=tls&sni=koko-ul86ux.koko01.workers.dev&fp=chrome&alpn=http%2F1.1&type=ws&host=koko-ul86ux.koko01.workers.dev&path=%2FWQiKEfc48wEf%3Fed%3D2048#PQ
